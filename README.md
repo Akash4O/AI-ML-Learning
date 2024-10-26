@@ -2,7 +2,7 @@
 
 ### Things to Learn :
 
-1. Maths:
+**1. Maths:**
      -> Calculus
      -> Differentiation & Integration
      -> Linear Algebra
@@ -10,7 +10,7 @@
 Reference :
      -> Youtube Channel : 3Blue1Brown
 
-2. Basic Python:
+**2. Basic Python:**
      -> Data Types
      -> Conditional Statements
      -> Loops
@@ -18,14 +18,14 @@ Reference :
 Reference :
      -> Youtube channel : Tech with Tim
 
-3. Data Analysis:
+**3. Data Analysis:**
      -> Pandas
      -> NumPy
      -> Matplotlib
 
-4. FrameWorks:
+**4. FrameWorks:**
      -> PyTorch
      -> ScikitLearn
      -> TensorFlow
 
-5. Practice
+**5. Practice**
